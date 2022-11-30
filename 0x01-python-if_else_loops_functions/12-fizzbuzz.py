@@ -13,12 +13,3 @@ def fizzbuzz():
             print("%s" % (BUZZ), end=' ')
         else:
             print("%d" % (number), end=' ')
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
