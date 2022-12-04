@@ -1,7 +1,5 @@
 #!/usr/bin/python3
 
-
-
 def no_c(my_string):
     string_length = len(my_string)
 
